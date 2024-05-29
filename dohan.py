@@ -10,3 +10,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+a = int(input("a ="))
+b = int(input("b ="))
